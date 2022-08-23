@@ -44,7 +44,7 @@ import { useSelector } from "react-redux";
 import store from "./store";
 import axios from "axios";
 
-// Payment
+// Payment Part
 import { Elements } from "@stripe/react-stripe-js";
 import { loadStripe } from "@stripe/stripe-js";
 
